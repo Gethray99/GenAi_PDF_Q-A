@@ -8,7 +8,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 
-pdf_loader = PyPDFLoader("CV/Yasan_Punchihewa_CV.pdf")
+pdf_loader = PyPDFLoader("CV/Gethwan_Suriyawansa.pdf")
 
 documents = pdf_loader.load()
 
