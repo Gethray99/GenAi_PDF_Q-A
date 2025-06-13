@@ -1,7 +1,5 @@
 langchain 
-#Openai == 1.24.0 
 python-dotenv 
-#langchain-openai == 0.1.4
 pypdf 
 google-genai 
 langchain-google-genai
